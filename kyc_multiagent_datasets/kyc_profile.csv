@@ -1,0 +1,7 @@
+legal_entity_id,field,value,status,last_updated
+LE001,Registered Address,,MISSING,
+LE001,PAN,AAAPL1234K,VALID,2024-01-01
+LE002,Certificate,Uploaded,EXPIRED,2022-06-01
+LE003,UBO,,MISSING,
+LE004,GST,29ABCDE1234,VALID,2025-01-10
+LE005,Sanctions Screening,Pending,STALE,2023-05-05

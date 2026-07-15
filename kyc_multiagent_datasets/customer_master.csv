@@ -1,0 +1,6 @@
+client_id,account_id,legal_entity_id,company_name,entity_type,country,industry,relationship_manager
+C001,A1001,LE001,ABC Pvt Ltd,Private,India,IT,RM101
+C002,A1002,LE002,XYZ Manufacturing Ltd,Private,India,Manufacturing,RM102
+C003,A1003,LE003,Global Trade Corp,Public,India,Export,RM103
+C004,A1004,LE004,FinServe Solutions,Private,India,Finance,RM104
+C005,A1005,LE005,HealthCare Labs,Private,India,Healthcare,RM105

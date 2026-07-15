@@ -1,0 +1,5 @@
+legal_entity_id,owner_name,ownership_percentage,verified
+LE001,Rahul Sharma,60,Yes
+LE001,Anita Sharma,40,Yes
+LE002,Vikram Rao,100,Yes
+LE004,Neha Kapoor,55,No

@@ -1,0 +1,5 @@
+entity_name,source,status
+ABC Pvt Ltd,OFAC,CLEAR
+XYZ Manufacturing Ltd,OFAC,CLEAR
+Global Trade Corp,OFAC,HIT
+HealthCare Labs,Internal,WATCHLIST

@@ -1,0 +1,1 @@
+# Ownership agent stub

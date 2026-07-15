@@ -1,0 +1,6 @@
+rule_id,condition,decision
+R001,Address Missing,Registry Enrichment
+R002,Expired Document,Customer Outreach
+R003,Missing UBO,Escalate
+R004,Sanctions HIT,Escalate Compliance
+R005,No Gaps,Close Case

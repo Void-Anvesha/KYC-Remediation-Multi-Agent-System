@@ -1,0 +1,6 @@
+trigger_id,trigger_type,legal_entity_id,created_at
+T001,Periodic Review,LE001,2025-07-01
+T002,Document Expiry,LE002,2025-07-01
+T003,Sanctions Refresh,LE003,2025-07-02
+T004,Policy Change,LE004,2025-07-02
+T005,Periodic Review,LE005,2025-07-03

@@ -1,0 +1,6 @@
+document_id,legal_entity_id,document_type,issue_date,expiry_date,status
+D001,LE001,PAN,2020-01-01,,VALID
+D002,LE002,Certificate of Incorporation,2018-01-01,2022-12-31,EXPIRED
+D003,LE003,Address Proof,2024-02-01,2027-02-01,VALID
+D004,LE004,GST Certificate,2024-01-01,,VALID
+D005,LE005,Board Resolution,2020-05-05,2023-05-05,EXPIRED

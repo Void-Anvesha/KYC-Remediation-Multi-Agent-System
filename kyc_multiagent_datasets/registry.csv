@@ -1,0 +1,6 @@
+legal_entity_id,company_name,registration_status,registered_address,gst,updated_on
+LE001,ABC Pvt Ltd,ACTIVE,Bengaluru,29ABCDE1111,2025-03-01
+LE002,XYZ Manufacturing Ltd,ACTIVE,Chennai,33ABCDE2222,2025-03-01
+LE003,Global Trade Corp,ACTIVE,Mumbai,27ABCDE3333,2025-03-01
+LE004,FinServe Solutions,ACTIVE,Hyderabad,36ABCDE4444,2025-03-01
+LE005,HealthCare Labs,INACTIVE,Delhi,07ABCDE5555,2024-09-01
