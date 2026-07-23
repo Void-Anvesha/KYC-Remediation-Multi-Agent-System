@@ -124,7 +124,7 @@ The application is organized around:
 - Tools for interacting with registry, document, ownership, sanctions, and communication data
 - Workflows and UI modules that support end-to-end remediation and monitoring
 
-## Getting Started
+## Getting Started with the project
 
 1. Create a Python environment
 
