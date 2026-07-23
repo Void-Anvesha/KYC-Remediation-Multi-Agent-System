@@ -5,13 +5,13 @@ from typing import Any, Dict
 from .base_agent import BaseAgent
 
 
-class GapDetectionAgent(BaseAgent):
-    """Identifies missing data or remediation gaps in a case."""
+class EnrichmentAgent(BaseAgent):
+    """Coordinates enrichment-style checks for a case payload."""
 
     def __init__(self) -> None:
-        super().__init__(name="gap_detection_agent")
+        super().__init__(name="enrichment_agent")
 
     def process(self, payload: Dict[str, Any]) -> Dict[str, Any]:
         payload = dict(payload)
-        payload.setdefault("gaps", [])
+        payload.setdefault("enrichment", "completed")
         return super().process(payload)

@@ -1,13 +1,7 @@
-from __future__ import annotations
-
 from workflows.workflow_runner import WorkflowRunner
 
 
-def main() -> None:
+def test_workflow_runner_runs() -> None:
     runner = WorkflowRunner()
     result = runner.run({"risk_score": 0.2, "evidence": ["document"]})
-    print(result)
-
-
-if __name__ == "__main__":
-    main()
+    assert result["payload"]["risk_score"] == 0.2

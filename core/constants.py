@@ -1,0 +1,23 @@
+"""
+Project-wide constants.
+"""
+
+from enum import Enum
+
+
+class WorkflowStatus(str, Enum):
+    NEW = "NEW"
+    VALIDATED = "VALIDATED"
+    GAPS_IDENTIFIED = "GAPS_IDENTIFIED"
+    ENRICHING = "ENRICHING"
+    EVIDENCE_READY = "EVIDENCE_READY"
+    DECISION_READY = "DECISION_READY"
+    COMPLETED = "COMPLETED"
+    FAILED = "FAILED"
+
+
+class EventType(str, Enum):
+    TRIGGER_RECEIVED = "TRIGGER_RECEIVED"
+    AGENT_STARTED = "AGENT_STARTED"
+    AGENT_COMPLETED = "AGENT_COMPLETED"
+    AGENT_FAILED = "AGENT_FAILED"
